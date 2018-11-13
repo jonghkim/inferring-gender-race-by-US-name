@@ -1,6 +1,6 @@
 # Inferring Gender and Race based on the First Name
 
-This is a repository to share a gender-name and a race-name datasets
+This is a repository to share a gender-name and a race-name datasets.
 Usually, both features are inferred at once. However there was a scarse or no repository who collect them in a single repository.
 
 I found these two sources from a paper written by [Lin and Pursiainen (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3045050)

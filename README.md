@@ -48,7 +48,7 @@ The race is classified by two tress. Firstly, they calculate percentages of 1. H
 ```
 @misc{jonghkim,
   author = {Jongho Kim},
-  title = {financial-time-series-prediction-v1},
+  title = {inferring-gender-race-by-US-name},
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},

@@ -37,7 +37,7 @@ This dataset is compiled by [Word, Coleman, Nunziata and Kominski (2008)](https:
 
 The race is classified by two tress. Firstly, they calculate percentages of 1. Hispanic, 2. Non-Hispanic. After then, they calculate percentages of Whites, Blacks, Asians and Native Americans among Non-Hispanic.
 
-# References
+## References
 - [US Names Datasets](https://github.com/organisciak/names)
 - [Demographic Aspects of Surnames from Census 2000](https://www.researchgate.net/publication/265005903_Demographic_Aspects_of_Surnames_from_Census_2000)
 - [Frequently Occurring Surnames from the 2010 Census](https://www.census.gov/topics/population/genealogy/data/2010_surnames.html)

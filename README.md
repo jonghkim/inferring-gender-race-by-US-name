@@ -3,7 +3,7 @@
 This is a repository to share a gender-name and a race-name datasets
 Usually, both features are inferred at once. However there was a scarse or no repository who collect them in a single repository.
 
-I found these two sources from a paper written by [Lin and Pursiainen](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3045050)(2018)
+I found these two sources from a paper written by [Lin and Pursiainen (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3045050)
 
 ## Gender-Name Dataset
 | Column header | Definition |
@@ -33,7 +33,7 @@ This dataset is created by [Peter Organisciak](https://github.com/organisciak/na
 Source: U.S. Census Bureau, 2010 Census.	
 Note: Fields suppressed for confidentiality are assigned the value (S).	
 
-This dataset is compiled by [Word, Coleman, Nunziata and Kominski](https://www.researchgate.net/publication/265005903_Demographic_Aspects_of_Surnames_from_Census_2000)(2008), based on the U.S. Census data.
+This dataset is compiled by [Word, Coleman, Nunziata and Kominski (2008)](https://www.researchgate.net/publication/265005903_Demographic_Aspects_of_Surnames_from_Census_2000), based on the U.S. Census data.
 
 The race is classified by two tress. Firstly, they calculate percentages of 1. Hispanic, 2. Non-Hispanic. After then, they calculate percentages of Whites, Blacks, Asians and Native Americans among Non-Hispanic.
 

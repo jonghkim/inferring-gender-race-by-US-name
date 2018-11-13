@@ -35,7 +35,7 @@ Note: Fields suppressed for confidentiality are assigned the value (S).
 
 This dataset is compiled by [Word, Coleman, Nunziata and Kominski](https://www.researchgate.net/publication/265005903_Demographic_Aspects_of_Surnames_from_Census_2000)(2008), based on the U.S. Census data.
 
-The race are classified into two tress. Firstly, they calculate percentages of 1. Hispanic, 2. Non-Hispanic. After then, they calculate percentages of Whites, Blacks, Asians and Native Americans among Non-Hispanic.
+The race is classified by two tress. Firstly, they calculate percentages of 1. Hispanic, 2. Non-Hispanic. After then, they calculate percentages of Whites, Blacks, Asians and Native Americans among Non-Hispanic.
 
 # References
 - [US Names Datasets](https://github.com/organisciak/names)

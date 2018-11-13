@@ -12,7 +12,7 @@ I found these two sources from a paper written by [Lin and Pursiainen (2018)](ht
 | name | first name |
 | gender.prob | gender probabilities at given name |
 
-This dataset is created by [Peter Organisciak](https://github.com/organisciak/names) who estimates name frequencies by gender based on birth name statistics in U.S. Thus, the inferred gender is derived from the probability which cojointly consider both names and age distributions.
+This dataset is created by [Peter Organisciak](https://github.com/organisciak/names) who estimates name frequencies by gender based on birth name statistics in U.S. Thus, the inferred gender is derived from the probability which cojointly consider both names and age distributions among living people in 2014.
 
 ## Race-Name Dataset
 

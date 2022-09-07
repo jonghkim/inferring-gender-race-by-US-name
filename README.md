@@ -1,4 +1,4 @@
-# Inferring Gender and Race based on the First Name
+# Inferring Gender and Race based on the Last Name
 
 This is a repository to share a gender-name and a race-name datasets.
 Usually, both features are inferred at once. However there was a scarse or no repository who collect them in a single repository.
@@ -9,7 +9,7 @@ I found these two sources from a paper written by [Lin and Pursiainen (2018)](ht
 | Column header | Definition |
 | :---: | :---: |
 | sex | gender |
-| name | first name |
+| name | last name |
 | gender.prob | gender probabilities at given name |
 
 This dataset is created by [Peter Organisciak](https://github.com/organisciak/names) who estimates name frequencies by gender based on birth name statistics in U.S. Thus, the inferred gender is derived from the probability which cojointly consider both names and age distributions among living people in 2014.
